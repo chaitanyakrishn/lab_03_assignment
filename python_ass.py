@@ -3,7 +3,7 @@ class Flight:
         self.p_id = p_id
         self.process = process
         self.start_time = start_time
-        self.priority = priority
+        self.priority = priority     
 
 class FlightTable:
     def __init__(self):
